@@ -1,6 +1,6 @@
 import pyperclip
 from sys import argv
-from random import choice
+from secrets import choice
 
 print("\n### Password generator ###")
 
